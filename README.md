@@ -1,3 +1,5 @@
+A simple project scaffold started with React Create App to experiment with Material UI 1.0 components.
+
 # Getting Started
 
 1. Install project dependencies
